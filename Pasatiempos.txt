@@ -10,3 +10,7 @@ Kata:
 -Dibujar
 -Viajar
 
+En común:
+- Bailar
+- Dibujar
+- Hiking
