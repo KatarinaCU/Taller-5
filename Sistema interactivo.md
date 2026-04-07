@@ -1,15 +1,15 @@
 Sistema interactivo
 
-# Nombre del sistema: [Control de Temperatura por Voz]
+# Nombre del sistema: FanVoice
 
 ## Descripción general
-Sistema que permite controlar un ventilador mediante comandos de voz.
+Sistema que permite controlar un ventilador de techo mediante comandos de voz.
 
 ## Usuario objetivo
 Personas con movilidad reducida.
 
 ## Entradas
-- Sensor: micrófono
+- Sensor: tipo micrófono
 - Tipo de señal: señal de audio (analógica a digital)
 
 ## Salidas
